@@ -4,4 +4,4 @@
 希望URL2QR的作者能采纳并加入到app，请随意使用。
 |  1   | 2Shadow  |  3   | 4Shadow  |
 |  ----  | ----  |  ----  | ----  |
-| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue.jpg" width="80" height="80" /> |<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Shadow.jpg" width="200" height="200" />| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Mini.jpg" width="80" height="80"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Mini_Shadow.jpg" width="80" height="80"/>
+| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue.jpg" width="200" height="200" /> |<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Shadow.jpg" width="200" height="200" />| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Mini.jpg" width="200" height="200"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Mini_Shadow.jpg" width="200" height="200"/>
