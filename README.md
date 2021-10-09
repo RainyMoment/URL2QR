@@ -20,4 +20,4 @@
 
 |  1 Blue  | 2 Blue Mini  |  3 Lite   | /  |
 |  ----  | ----  |  ----  | ----  |
-| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue.svg" width="200" height="200" /> |<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Mini.svg" width="200" height="200" />| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Lite.svg" width="200" height="200"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/0.jpg" width="200" height="200"/>
+| <URL2QR 2.0 - Instruction.svg" width="200" height="200" /> |<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR_Blue_Mini.svg" width="200" height="200" />| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" width="200" height="200"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/0.jpg" width="200" height="200"/>
