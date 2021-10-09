@@ -1,4 +1,5 @@
-免费UI设计请找我: <a href="tg://resolve?domain=https://t.me/iFreeUI">Contact me on Telegram</a>
+[免费UI设计请找我TG] tg://resolve?domain=https://t.me/iFreeUI
+
 
 # URL2QR
 
