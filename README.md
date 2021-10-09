@@ -18,6 +18,5 @@
 * 为了体现上述两者的操作层次，我将抽象化的 “插件”图标 于 镜头下的“QR Code” 用“冒泡”的三角连接起来
 
 
-|  1   | 2   |
-|  ----  | ----  | 
-|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg" />| <img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" />
+<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg" />
+<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" />
