@@ -23,6 +23,6 @@
 
 |  1 Origin   | 2 New instruction | 3 New icon | 
 |  ----  | ----  |  ----  | 
-|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR%201.0%20-%20Instruction.JPEG"  width="200" height="380"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" width="200" height="430"/>|
+|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR%201.0%20-%20Instruction.JPEG"  width="200" height="350"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" width="200" height="430"/>|
 
 
