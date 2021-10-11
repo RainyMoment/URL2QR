@@ -21,5 +21,8 @@
 * 为了体现上述两者的操作层次，我将抽象化的 “插件”图标 于 镜头下的“QR Code” 用“冒泡”的三角连接起来
 
 
-<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg" />
-<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" />
+|  1 Origin   | 2 New instruction | 3 New icon | 
+|  ----  | ----  |  ----  | 
+|<img src="https://github.com/RainyMoment/Wallpaper/blob/main/1-Lock%20iPhone11.png"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" width="200" height="430"/>|
+
+
