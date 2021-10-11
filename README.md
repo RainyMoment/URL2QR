@@ -23,6 +23,6 @@
 
 |  1 Origin   | 2 New instruction | 3 New icon | 
 |  ----  | ----  |  ----  | 
-|<img src="https://github.com/RainyMoment/Wallpaper/blob/main/1-Lock%20iPhone11.png"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" width="200" height="430"/>|
+|<img src="https://github.com/RainyMoment/URL2QR/blob/main//main/URL2QR 1.0 - Instruction.jpeg"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - Instruction.svg"  width="200" height="430"/>|<img src="https://github.com/RainyMoment/URL2QR/blob/main/URL2QR 2.0 - App iCon + Ex iCon.svg" width="200" height="430"/>|
 
 
